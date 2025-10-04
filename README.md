@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hegekara/hegekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hilmi Ege Kara
 
-Here are some ideas to get you started:
+I’m a senior software engineering student, and I’m actively interested in backend development.  
+I mainly work with Java and Go, as well as the React framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials
+
+[![LinkedIn](https://github.com/user-attachments/assets/0665bcd5-55b7-4f67-8ec7-53f388daa6b3)](https://www.linkedin.com/in/hilmi-ege-kara-57340a255/)
+[![Mail](https://github.com/user-attachments/assets/ccd8bea0-d23a-4d75-96ef-d38b4d423411)](mailto:hegekara48@gmail.com)
+
+</div>
