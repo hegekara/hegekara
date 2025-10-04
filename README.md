@@ -7,7 +7,7 @@ I mainly work with Java and Go, as well as the React framework.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://github.com/user-attachments/assets/0665bcd5-55b7-4f67-8ec7-53f388daa6b3)](https://www.linkedin.com/in/hilmi-ege-kara-57340a255/)
-[![Mail](https://github.com/user-attachments/assets/ccd8bea0-d23a-4d75-96ef-d38b4d423411)](mailto:hegekara48@gmail.com)
+[![LinkedIn](https://github.com/user-attachments/assets/fbc907c5-9648-459a-8c59-1a989eec1387)](https://www.linkedin.com/in/hilmi-ege-kara-57340a255/)
+[![Mail](https://github.com/user-attachments/assets/04754c43-4c12-4d47-a82f-0f88e98b35e3)](mailto:hegekara48@gmail.com)
 
 </div>
