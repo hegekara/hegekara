@@ -2,8 +2,8 @@
 
 # Hi, I'm Hilmi Ege Kara
 
-I’m a senior software engineering student, and I’m actively interested in backend development.  
-I mainly work with Java and Go, as well as the React framework.
+I’m senior software engineering student at Kocaeli University and software developer at Vericom
+I mainly work with Java and React framework.
 
 ## Socials
 
