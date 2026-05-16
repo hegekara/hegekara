@@ -2,7 +2,8 @@
 
 # Hi, I'm Hilmi Ege Kara
 
-I’m senior software engineering student at Kocaeli University and software developer at Vericom
+I’m senior software engineering student at Kocaeli University and software developer at Vericom  
+
 I mainly work with Java and React framework.
 
 ## Socials
